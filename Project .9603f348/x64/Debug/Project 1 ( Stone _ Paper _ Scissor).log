@@ -1,5 +1,2 @@
 ﻿  Project 1 ( Stone _ Paper _ Scissor).cpp
-E:\Visual Studio 2022 Projects\Project 1 ( Stone _ Paper _ Scissor)\Project 1 ( Stone _ Paper _ Scissor).cpp(94,1): warning C4715: 'ReturnPlayerChoice': not all control paths return a value
-E:\Visual Studio 2022 Projects\Project 1 ( Stone _ Paper _ Scissor)\Project 1 ( Stone _ Paper _ Scissor).cpp(151,1): warning C4715: 'ReturnWinner': not all control paths return a value
-E:\Visual Studio 2022 Projects\Project 1 ( Stone _ Paper _ Scissor)\Project 1 ( Stone _ Paper _ Scissor).cpp(126,1): warning C4715: 'SelectWinner': not all control paths return a value
-  Project 1 ( Stone _ Paper _ Scissor).vcxproj -> E:\Visual Studio 2022 Projects\Project 1 ( Stone _ Paper _ Scissor)\x64\Debug\Project 1 ( Stone _ Paper _ Scissor).exe
+  Project 1 ( Stone _ Paper _ Scissor).vcxproj -> E:\GitHupReprositries\Stone-Paper-Scissors-Game\x64\Debug\Project 1 ( Stone _ Paper _ Scissor).exe
